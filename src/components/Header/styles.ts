@@ -62,7 +62,7 @@ export const Container = styled.div`
     max-width: 520px;
 
     button:first-child {
-      width: 210px;
+      width: 215px;
     }
   }
 `;
